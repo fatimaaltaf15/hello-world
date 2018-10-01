@@ -5,6 +5,11 @@ html, body {
   padding: 0;
   margin: 0; }
 
+body {
+  background: url('/assets/media/image1.jpeg') no-repeat fixed center;
+  background-size: cover;
+}
+
 section {
   min-height: 100%;
   display: flex;
